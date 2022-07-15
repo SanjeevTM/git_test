@@ -1,2 +1,3 @@
 Okay, wake up!
+This is a testing phase for Github from local Linux Ubuntu cmd
 
